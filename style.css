@@ -56,3 +56,34 @@
   box-shadow: 10px 10px 10px 10px red;
   border-radius: 20px;
 }
+footer {
+  text-align: center;
+  background-color: darkslategray;
+  color: white;
+
+  padding: 50px;
+}
+.color {
+  color: tomato;
+}
+.position {
+  width: 80%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.position-satting {
+  width: 50%;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-left: 80px;
+  margin-right: 40px;
+}
+.round {
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 5px 5px 5px rebeccapurple;
+  margin: 60px;
+}
+.position-satting h1 {
+  font-size: 70px;
+}
