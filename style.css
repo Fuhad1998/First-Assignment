@@ -87,3 +87,10 @@ footer {
 .position-satting h1 {
   font-size: 70px;
 }
+body {
+  margin-top: 300px;
+  background-image: url(images/background-img.jpg);
+  background-repeat: no-repeat;
+
+  background-position: center top;
+}
